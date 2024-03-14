@@ -1,0 +1,91 @@
+.header {
+    background: #C4C4C4;
+    margin-bottom: 5%;
+}
+
+.context {
+    margin-bottom: 2%;
+}
+
+.heading {
+    background: #C4C4C4;
+}
+
+.bottom {
+    background: #000000;
+}
+
+.mail-box {
+    width: 498px;
+    height: 519px;
+    border: 1 px;
+
+}
+
+.info {
+    width: 550px;
+    height: 612px;
+
+}
+
+.input input {
+    width: 498px;
+    height: 60px;
+    border-radius: 5px;
+    border: 1px;
+    color: #343434;
+    border: 1px solid #C4C4C4;
+    margin-bottom: 2%;
+}
+
+.input textarea {
+    width: 498px;
+    height: 166px;
+    top: 1353px;
+    left: 109px;
+    border-radius: 5px;
+    border: 1px;
+    color: #343434;
+    border: 1px solid #C4C4C4;
+    margin-bottom: 2%;
+}
+
+button {
+    width: 498px;
+    height: 66px;
+    border-radius: 33px;
+    color: #FFFFFF;
+    background: #000000;
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 51px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+
+.review {
+    width: 676px;
+    height: 69px;
+    top: 4027px;
+    left: 418px;
+    border-radius: 34.5px;
+    background: #FFFFFF;
+
+}
+
+.subscribe {
+    background: #C4C4C4;
+
+}
+
+.cont {
+    text-align: center;
+    color: #DFDFDF;
+
+}
+
+.footer {
+    background: #000000;
+}
